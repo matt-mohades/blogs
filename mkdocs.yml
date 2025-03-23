@@ -22,6 +22,8 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+        primary: amber
+        accent: cyan
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -29,6 +31,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+        primary: amber
+        accent: cyan
 
 plugins:
   - awesome-pages

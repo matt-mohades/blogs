@@ -6,8 +6,6 @@ theme:
     # text: Montserrat
     code: Fira Mono
   palette:
-    primary: amber
-    accent: cyan
     
 
     # Palette toggle for automatic mode
@@ -15,6 +13,8 @@ theme:
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
+        primary: amber
+        accent: cyan
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"

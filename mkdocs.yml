@@ -29,7 +29,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
+      primary: teal
       accent: deep orange
       toggle:
         icon: material/brightness-4

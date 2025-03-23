@@ -2,6 +2,8 @@ site_name: Matt's Metadata
 
 theme:
   name: material
+  features:
+    - navigation.indexes
   font:
     # text: Montserrat
     code: Fira Mono

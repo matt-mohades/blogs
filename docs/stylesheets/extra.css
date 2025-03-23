@@ -1,11 +1,11 @@
-  @import url(//fonts.googleapis.com/css?family=IM+Fell+Great+Primer+SC);
+@import url(//fonts.googleapis.com/css?family=IM+Fell+Great+Primer+SC);
 
 .md-typeset h1 {
     /* color: #fb8500; */
     font-family: "IM Fell Great Primer SC";
 }
 
-.md-typeset h2 {
+/* .md-typeset h2 {
   /* color: #2e2e2e; */
   font-family: "IM Fell Great Primer SC";
 }
@@ -18,4 +18,4 @@
 .md-typeset md-nav__item {
   /* color: #2e2e2e; */
   font-family: "IM Fell English SC";
-}
+} */

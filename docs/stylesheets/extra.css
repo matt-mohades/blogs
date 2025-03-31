@@ -7,7 +7,8 @@
 .md-header__topic:first-child {
   font-family: "IM Fell English";
   font-style: italic;
-  font-size: 32px;
+  font-weight: 400;
+  font-size: 24px;
 }
 
 .md-typeset h1 {

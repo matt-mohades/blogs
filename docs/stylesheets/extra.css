@@ -19,3 +19,8 @@
    font-family: "IM Fell English";
  }
 
+.md-header__topic:first-child {
+  font-family: "IM Fell English";
+  font-style: italic;
+  font-size: 32px;
+}

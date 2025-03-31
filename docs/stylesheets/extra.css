@@ -9,3 +9,18 @@
     font-family: "IM Fell Great Primer SC";
 }
 
+.md-typeset h2 {
+   /* color: #2e2e2e; */
+   font-family: "IM Fell Great Primer SC";
+ }
+ 
+ .md-typeset h3 {
+   /* color: #2e2e2e; */
+   font-family: "IM Fell Great Primer SC";
+ }
+ 
+ .md-typeset md-nav__item {
+   /* color: #2e2e2e; */
+   font-family: "IM Fell English SC";
+ }
+

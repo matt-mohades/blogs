@@ -4,6 +4,12 @@
   --md-default-bg-color: hsla(0, 0%, 7%, 1); /* Very dark gray (#121212) */
 }
 
+.md-header__topic:first-child {
+  font-family: "IM Fell English";
+  font-style: italic;
+  font-size: 32px;
+}
+
 .md-typeset h1 {
     /* color: #fb8500; */
     font-family: "IM Fell English";
@@ -20,8 +26,4 @@
    font-family: "IM Fell English";
  }
 
-.md-header__topic:first-child {
-  font-family: "IM Fell English";
-  font-style: italic;
-  font-size: 32px;
-}
+

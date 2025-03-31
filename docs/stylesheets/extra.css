@@ -18,12 +18,8 @@
    /* color: #2e2e2e; */
    font-family: "IM Fell English";
  }
- 
- .md-typeset md-nav__title {
-   /* color: #2e2e2e; */
-   font-family: "IM Fell English";
- }
-.md-nav {
+
+.md-header {
   font-family: "IM Fell English";
 }
 

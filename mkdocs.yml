@@ -5,8 +5,8 @@ theme:
   features:
     - navigation.indexes
   font:
-    # text: Montserrat
-    code: Fira Mono
+    text: Spectral
+    code: JetBrains Mono
   palette:
     
 

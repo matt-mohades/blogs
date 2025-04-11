@@ -1,5 +1,9 @@
 @import url(//fonts.googleapis.com/css?family=IM+Fell+English);
 
+:root {
+  --md-default-bg-color: hsla(0, 0%, 96%, 1); /* Light grey background (#f5f5f5) */
+}
+
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: hsla(0, 0%, 7%, 1); /* Very dark gray (#121212) */
 }

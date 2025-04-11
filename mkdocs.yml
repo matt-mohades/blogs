@@ -19,7 +19,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: amber
+      primary: teal
       accent: cyan
       toggle:
         icon: material/brightness-7

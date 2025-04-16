@@ -5,7 +5,7 @@ theme:
   features:
     - navigation.indexes
   font:
-    # text: Spectral
+    text: Open Sans
     code: JetBrains Mono
   palette:
     
